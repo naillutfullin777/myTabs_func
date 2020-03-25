@@ -1,0 +1,24 @@
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+}
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+.header-tab {
+    cursor: pointer;
+    color: white;
+}
+.tab-content {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}
+.show {
+    display: flex;
+}
+.hide {
+    display: none;
+}
