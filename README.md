@@ -23,8 +23,9 @@ HTML документу:
 ```    
 Если вы используете другие классы, то введите их в коде скрипта (myTabs_func):
 
-window.addEventListener('DOMContentLoaded', function() {
 ```javascript
+window.addEventListener('DOMContentLoaded', function() {
+
     'use strict';
 
     let tab = document.querySelectorAll('.header-tab'), //Вкладки для табов (header-tab)
