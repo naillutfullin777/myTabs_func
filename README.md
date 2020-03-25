@@ -21,7 +21,7 @@ HTML документу:
         </div>
 </div>
 ```    
-Если вы используете другие классы, то введите их в коде скрипта (myTabs_func):
+Если вы используете другие классы, то введите их в коде скрипта (myTabs.js):
 
 ```javascript
 window.addEventListener('DOMContentLoaded', function() {
